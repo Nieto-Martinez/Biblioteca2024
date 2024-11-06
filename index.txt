@@ -95,7 +95,7 @@
 <BR>
 <BR>
 <BR>
-    <h1>CEMNG Dioniso de Herrera</h1>
+    <h1>CEMNG DIONISIO DE HERRERA  </h1>
     <img src="logo.png" width="250">
     <h1>BIENVENIDOS</h1>
 </body>
